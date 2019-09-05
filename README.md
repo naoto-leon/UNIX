@@ -18,7 +18,7 @@ xxxをxxx2としてコピー
 
 ### mkdir  
 新規ファイルを作る  
-mkdir-p xxx/xxx2 とした場合xxxも合わせて作られる  
+mkdir -p xxx/xxx2 とした場合xxxも合わせて作られる  
 
 
 
