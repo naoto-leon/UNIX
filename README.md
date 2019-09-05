@@ -2,17 +2,23 @@
 コマンドプロントUNIX記載　チートシート
 
 
-#### pwd
+### pwd
 現在のディレクトリ  
 
-#### cd  
+### cd  
 ディレクトリ移動  
 (EX) cd Desktop  
 
-#### ls  
+### ls  
 入っているファイル参照  
 (EX) ls Desktop  
 
-#### cp-r xxx xxx2  
+### cp-r xxx xxx2  
 xxxをxxx2としてコピー  
+
+### mkdir  
+新規ファイルを作る  
+mkdir-p xxx/xxx2 とした場合xxxも合わせて作られる  
+
+
 
