@@ -40,6 +40,10 @@ ls xxx
 cd !$  
 !$ == xxx  
 
+### sudo  
+管理者権限  
+
+
 ***
 
 ## Vim 
