@@ -64,5 +64,10 @@ insertの開始
 保存せずに終了  
 
 
+## Permission 
+
+<img width="200" alt="スクリーンショット 2019-09-05 15 05 20" src="https://user-images.githubusercontent.com/43961147/64316126-e143e500-cfee-11e9-96ff-96414e9b5b3b.png">
+
+<img width="300" alt="スクリーンショット 2019-09-05 15 06 23" src="https://user-images.githubusercontent.com/43961147/64316128-e143e500-cfee-11e9-9ef9-ed2df12fd33f.png">
 
 
