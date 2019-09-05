@@ -40,3 +40,6 @@ q で閉じる
 ### vi xxx  
 xxxをvimで開く
 
+##
+xxxをvimで開く#
+
