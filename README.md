@@ -72,4 +72,7 @@ insertの開始
 
 <img width="450" alt="スクリーンショット 2019-09-05 15 06 23" src="https://user-images.githubusercontent.com/43961147/64316128-e143e500-cfee-11e9-9ef9-ed2df12fd33f.png">
 
+r = 読み込み可能  
+w = 書き換え可能  
+x = 実行可能  
 
