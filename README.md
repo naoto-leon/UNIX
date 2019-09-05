@@ -76,3 +76,5 @@ r = 読み込み可能
 w = 書き換え可能  
 x = 実行可能  
 
+二進数による表記と変更方法  
+<img width="450" alt="スクリーンショット 2019-09-05 15 42 18" src="https://user-images.githubusercontent.com/43961147/64317872-cfb10c00-cff3-11e9-8fbe-0bf9ac8dbc87.png">
