@@ -67,6 +67,8 @@ insertの開始
 ### :q!  
 保存せずに終了  
 
+### vi ~/.bash_profile  
+Bash開く　
 
 ## Permission 
 
